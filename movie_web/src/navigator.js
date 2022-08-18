@@ -1,4 +1,3 @@
 function navigator(){
     return 
-
 }
